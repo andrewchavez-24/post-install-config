@@ -49,9 +49,66 @@ SysAdmins
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Teams
+Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
+Online Banking
 </p>
 <br />
+
+![Screen Shot 2025-03-07 at 9 34 02 AM](https://github.com/user-attachments/assets/d879884d-7fd2-4220-97ac-899c6f50e4b6)
+
+
+<p>
+Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
+Registration Required: Require registration and login to create tickets 
+</p>
+<br />
+
+![Screen Shot 2025-03-07 at 9 35 28 AM](https://github.com/user-attachments/assets/062bc273-b7af-4077-bfc5-2d9c52889669)
+
+<p>
+Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane (Dept: SysAdmins)
+John (Dept: Support)
+</p>
+<br />
+
+![Screen Shot 2025-03-07 at 9 40 46 AM](https://github.com/user-attachments/assets/e1e7be63-e307-4979-830e-d3406cd19066)
+
+<p>
+Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
+</p>
+<br />
+
+![Screen Shot 2025-03-07 at 9 59 35 AM](https://github.com/user-attachments/assets/e664a1f7-bfc7-4cbf-afbe-629ad8d81bd1)
+
+<p>
+Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+</p>
+<br />
+
+![Screen Shot 2025-03-07 at 9 59 35 AM](https://github.com/user-attachments/assets/7e6f065d-cbad-48dd-80aa-8ba2dd4fc798)
+
+<p>
+Configure Help Topics (For when users create a ticket)
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+Other
+</p>
+<br />
+
+![Screen Shot 2025-03-07 at 10 25 32 AM](https://github.com/user-attachments/assets/5414af91-6ea3-411c-949e-3ba62ba964fe)
+
+
