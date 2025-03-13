@@ -110,3 +110,10 @@ Other
 <p>
 <img src="https://github.com/user-attachments/assets/5414af91-6ea3-411c-949e-3ba62ba964fe" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h2>osTicket Setup Complete!</h2>
+
+<b> We've successfully set up multiple agents along with their departments, roles, and permissions. As well as, configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where I will create and work different tickets using multiple agents and users!  </b>
+<br />
+<br />
+</p>
